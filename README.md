@@ -1,5 +1,5 @@
 # Desafio de Projeto sobre Git/GitHub da DIO
-Repositório criado para o de Projeto.
+Repositório criado para Desafio o de Projeto.
 
 ## Links Úteis
 
